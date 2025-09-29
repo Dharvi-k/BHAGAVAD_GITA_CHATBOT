@@ -1,4 +1,7 @@
 # chatbot.py
+import os
+
+HF_TOKEN = os.getenv("HUGGINGFACE_TOKEN")
 
 import pandas as pd
 import numpy as np
@@ -85,7 +88,7 @@ retriever = vectorstore.as_retriever(search_type="similarity", search_kwargs={"k
 # 5. LLM setup
 # --------------------------
 
-HF_TOKEN = "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"
+HF_TOKEN = HF_TOKEN
 
 # -------------------------- Quantization Config --------------------------
 bnb_config = BitsAndBytesConfig(
@@ -217,6 +220,7 @@ def smart_query(query):
     # Default QA
     prompt = f"Answer based on Gita teachings in about 150 words.:\n{context}\nQuery: {query_clean}"
     return llm(prompt)
+
 
 
 __all__= ["smart_query", "extract_paragraph"]
