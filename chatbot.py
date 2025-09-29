@@ -1,7 +1,9 @@
 # chatbot.py
+from dotenv import load_dotenv
 import os
 
-HF_TOKEN = os.getenv("HUGGINGFACE_TOKEN")
+load_dotenv()  # loads variables from .env
+HF_TOKEN = os.getenv("HUGGINGFaceToken")
 
 import pandas as pd
 import numpy as np
@@ -224,3 +226,4 @@ def smart_query(query):
 
 
 __all__= ["smart_query", "extract_paragraph"]
+
