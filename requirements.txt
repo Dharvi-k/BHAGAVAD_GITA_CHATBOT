@@ -16,3 +16,5 @@ accelerate
 requests
 torch
 python-dotenv
+pydantic
+
