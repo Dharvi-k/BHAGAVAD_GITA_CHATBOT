@@ -1,0 +1,454 @@
+[
+      {
+    "teaching_id": 1,
+    "topic": "Identity & True Self",
+    "keywords": ["identity", "soul", "self", "body", "who am I"],
+    "text": "The Gita teaches that our true identity is not the body or mind but the eternal Self (Atman). Recognizing this helps overcome fear, insecurity, and attachment to temporary roles.",
+    "source_refs": [
+      {"type": "verse_commentary", "reference": "BG 2:13", "commentary_summary": "The soul remains unchanged through bodily changes."}
+    ]
+  },
+  {
+    "teaching_id": 2,
+    "topic": "Equality & Universal Oneness",
+    "keywords": ["equality", "oneness", "all beings", "samatva"],
+    "text": "Though outwardly different, all beings share the same spiritual essence. This insight fosters inclusivity, dignity, and equal vision beyond caste, gender, or species.",
+    "source_refs": [
+      {"type": "verse_commentary", "reference": "BG 5:18", "commentary_summary": "The wise see a Brahmin, cow, elephant, and dog equally."}
+    ]
+  },
+  {
+    "teaching_id": 3,
+    "topic": "Duty & Selfless Action (Karma Yoga)",
+    "keywords": ["karma yoga", "duty", "selfless action", "work"],
+    "text": "The Gita emphasizes performing duty without attachment to results. This reduces stress, increases focus, and builds integrity in daily work.",
+    "source_refs": [
+      {"type": "book", "reference": "Tilak – Gita Rahasya", "commentary_summary": "Selfless action is the essence of the Gita’s teaching."}
+    ]
+  },
+  {
+    "teaching_id": 4,
+    "topic": "Stress Management",
+    "keywords": ["stress", "anxiety", "calmness", "peace"],
+    "text": "By focusing on action and surrendering outcomes, the Gita provides tools for handling stress. Detachment from success or failure calms the mind.",
+    "source_refs": [
+      {"type": "verse_commentary", "reference": "BG 2:47", "commentary_summary": "You have a right to action, not to the fruits."}
+    ]
+  },
+  {
+    "teaching_id": 5,
+    "topic": "Work-Life Balance",
+    "keywords": ["balance", "work", "life", "discipline"],
+    "text": "The Gita advises moderation in eating, sleeping, and recreation. A balanced lifestyle supports both spiritual growth and worldly success.",
+    "source_refs": [
+      {"type": "verse_commentary", "reference": "BG 6:16-17", "commentary_summary": "Moderation is the key to yoga."}
+    ]
+  },
+  {
+    "teaching_id": 6,
+    "topic": "Leadership & Responsibility",
+    "keywords": ["leadership", "example", "inspiration"],
+    "text": "Leaders influence others by their actions. The Gita highlights leading with integrity, responsibility, and selflessness.",
+    "source_refs": [
+      {"type": "verse_commentary", "reference": "BG 3:21", "commentary_summary": "Whatever a leader does, others follow."}
+    ]
+  },
+  {
+    "teaching_id": 7,
+    "topic": "Decision Making",
+    "keywords": ["decisions", "dharma", "choices"],
+    "text": "When faced with dilemmas, the Gita guides us to act according to dharma—principles of righteousness—over fear or desire.",
+    "source_refs": [
+      {"type": "verse_commentary", "reference": "BG 18:63", "commentary_summary": "Krishna advises Arjuna to reflect and decide freely."}
+    ]
+  },
+  {
+    "teaching_id": 8,
+    "topic": "Inclusivity & Gender",
+    "keywords": ["gender", "inclusivity", "LGBTQ", "roles"],
+    "text": "The Atman is beyond gender, caste, or social roles. All are equally capable of spiritual realization, making the Gita inherently inclusive.",
+    "source_refs": [
+      {"type": "verse_commentary", "reference": "BG 9:32", "commentary_summary": "All who take refuge in Krishna can attain liberation, regardless of birth or gender."}
+    ]
+  },
+  {
+    "teaching_id": 9,
+    "topic": "Mental Health & Inner Peace",
+    "keywords": ["mental health", "calmness", "equanimity"],
+    "text": "By cultivating equanimity (samatva), one achieves resilience. The Gita’s approach helps with anxiety, depression, and overthinking.",
+    "source_refs": [
+      {"type": "verse_commentary", "reference": "BG 6:6", "commentary_summary": "The mind can be one’s best friend or enemy."}
+    ]
+  },
+  {
+    "teaching_id": 10,
+    "topic": "Relationships & Detachment",
+    "keywords": ["relationships", "attachment", "love"],
+    "text": "The Gita teaches loving without attachment—caring deeply while recognizing the eternal nature of the soul.",
+    "source_refs": [
+      {"type": "verse_commentary", "reference": "BG 12:13-14", "commentary_summary": "Devotees are compassionate, free from possessiveness."}
+    ]
+  },
+  {
+    "teaching_id": 11,
+    "topic": "Ethics in Work",
+    "keywords": ["ethics", "integrity", "career"],
+    "text": "One must do their work with honesty and fairness. The Gita encourages ethical conduct over short-term gain.",
+    "source_refs": [
+      {"type": "verse_commentary", "reference": "BG 3:19", "commentary_summary": "Perform duty without attachment and achieve the supreme."}
+    ]
+  },
+  {
+    "teaching_id": 12,
+    "topic": "Technology & AI",
+    "keywords": ["technology", "AI", "modern work"],
+    "text": "While the Gita does not mention AI, its principle of detachment from tools and results applies. Technology should serve dharma, not enslave humanity.",
+    "source_refs": [
+      {"type": "modern_exposition", "reference": "Ethics & AI essays", "commentary_summary": "Gita-inspired reflections on using technology responsibly."}
+    ]
+  },
+  {
+    "teaching_id": 13,
+    "topic": "Environment & Ecology",
+    "keywords": ["environment", "ecology", "nature"],
+    "text": "The Gita views nature (Prakriti) as sacred. Humans should act as stewards, not exploiters, of natural resources.",
+    "source_refs": [
+      {"type": "verse_commentary", "reference": "BG 7:4-5", "commentary_summary": "Nature and living beings are both divine energies."}
+    ]
+  },
+  {
+    "teaching_id": 14,
+    "topic": "Overcoming Fear",
+    "keywords": ["fear", "courage", "confidence"],
+    "text": "Fear arises from attachment and ignorance. By trusting the eternal self and acting with faith, fear dissolves.",
+    "source_refs": [
+      {"type": "verse_commentary", "reference": "BG 18:66", "commentary_summary": "Surrender removes fear and grants liberation."}
+    ]
+  },
+  {
+    "teaching_id": 15,
+    "topic": "Time & Impermanence",
+    "keywords": ["time", "impermanence", "change"],
+    "text": "The Gita emphasizes that worldly things are temporary. Recognizing impermanence fosters gratitude and reduces grief.",
+    "source_refs": [
+      {"type": "verse_commentary", "reference": "BG 2:27", "commentary_summary": "Death is certain for the born, birth is certain for the dead."}
+    ]
+  },
+  {
+    "teaching_id": 16,
+    "topic": "Mind Discipline",
+    "keywords": ["discipline", "focus", "mind"],
+    "text": "The restless mind can be disciplined through yoga, meditation, and devotion. This enhances productivity and clarity.",
+    "source_refs": [
+      {"type": "verse_commentary", "reference": "BG 6:5", "commentary_summary": "Elevate yourself through your mind, not degrade yourself."}
+    ]
+  },
+  {
+    "teaching_id": 17,
+    "topic": "Devotion & Love",
+    "keywords": ["devotion", "love", "bhakti"],
+    "text": "Devotion transforms relationships and life. Bhakti means unconditional love and surrender, which modern psychology connects to deeper fulfillment.",
+    "source_refs": [
+      {"type": "verse_commentary", "reference": "BG 9:22", "commentary_summary": "Those devoted are cared for and protected."}
+    ]
+  },
+  {
+    "teaching_id": 18,
+    "topic": "Resilience in Adversity",
+    "keywords": ["resilience", "struggles", "strength"],
+    "text": "Life is full of challenges, but the Gita encourages endurance and inner strength through faith and detachment.",
+    "source_refs": [
+      {"type": "verse_commentary", "reference": "BG 2:14", "commentary_summary": "Endure happiness and distress with equanimity."}
+    ]
+  },
+  {
+    "teaching_id": 19,
+    "topic": "Purpose & Meaning",
+    "keywords": ["purpose", "meaning", "life goals"],
+    "text": "Living according to dharma gives life meaning. The Gita advises aligning personal goals with universal welfare.",
+    "source_refs": [
+      {"type": "verse_commentary", "reference": "BG 3:35", "commentary_summary": "Better to do one’s own duty imperfectly than another’s perfectly."}
+    ]
+  },
+  {
+    "teaching_id": 20,
+    "topic": "Spiritual Growth in Daily Life",
+    "keywords": ["spirituality", "daily life", "growth"],
+    "text": "Spirituality is not separate from life—it can be practiced through work, relationships, and service. The Gita bridges the sacred and the everyday.",
+    "source_refs": [
+      {"type": "verse_commentary", "reference": "BG 9:26", "commentary_summary": "Offering even simple things with devotion is accepted."}
+    ]
+  },
+  {
+    "teaching_id": 21,
+    "topic": "Nonviolence & Compassion",
+    "keywords": ["ahimsa", "compassion", "violence"],
+    "text": "Though set in a battlefield, the Gita teaches inner nonviolence — conquering anger, hatred, and cruelty through compassion and understanding."
+  },
+  {
+    "teaching_id": 22,
+    "topic": "Detachment from Materialism",
+    "keywords": ["wealth", "greed", "materialism"],
+    "text": "The Gita warns against being consumed by possessions and wealth. True joy comes from detachment and inner fulfillment."
+  },
+  {
+    "teaching_id": 23,
+    "topic": "Spiritual Ecology",
+    "keywords": ["nature", "balance", "environment"],
+    "text": "The Gita sees humans as caretakers of nature. Overexploitation leads to disharmony; living in balance with Earth is dharma."
+  },
+  {
+    "teaching_id": 24,
+    "topic": "Conflict Resolution",
+    "keywords": ["conflict", "resolution", "peace"],
+    "text": "Arjuna’s crisis symbolizes modern inner conflicts. The Gita teaches resolving conflicts through clarity, calmness, and dharma-based decisions."
+  },
+  {
+    "teaching_id": 25,
+    "topic": "Mindfulness in Action",
+    "keywords": ["mindfulness", "present moment", "focus"],
+    "text": "Performing one’s duty with full awareness but without attachment is mindfulness in practice — a teaching aligned with modern psychology."
+  },
+  {
+    "teaching_id": 26,
+    "topic": "Global Brotherhood",
+    "keywords": ["unity", "humanity", "brotherhood"],
+    "text": "Seeing all beings as part of one divine whole, the Gita inspires universal brotherhood and cooperation beyond race, nation, or religion."
+  },
+  {
+    "teaching_id": 27,
+    "topic": "Overcoming Ego",
+    "keywords": ["ego", "humility", "pride"],
+    "text": "The Gita emphasizes humility and surrender. Ego blinds judgment, while humility opens the path to wisdom."
+  },
+  {
+    "teaching_id": 28,
+    "topic": "Social Duty & Service",
+    "keywords": ["service", "society", "seva"],
+    "text": "Dharma extends to social responsibility. Serving society selflessly aligns with Karma Yoga and builds harmony."
+  },
+  {
+    "teaching_id": 29,
+    "topic": "Detoxing the Mind",
+    "keywords": ["purity", "mental clarity", "clean mind"],
+    "text": "Negative thoughts are like toxins. The Gita advises purity of food, thought, and action to cleanse the mind."
+  },
+  {
+    "teaching_id": 30,
+    "topic": "Hope & Optimism",
+    "keywords": ["hope", "optimism", "faith"],
+    "text": "Even in despair, Krishna assures that no sincere effort in dharma or devotion is wasted. This inspires hope in modern struggles."
+  },
+  
+  {
+    "teaching_id": 31,
+    "topic": "Death & Impermanence",
+    "keywords": ["death", "afterlife", "impermanence"],
+    "text": "The Gita teaches that death is not an end but a transition. The soul (Atman) is eternal and only the body perishes. This helps reduce fear and grief when facing mortality."
+  },
+  {
+    "teaching_id": 32,
+    "topic": "Suicide & Despair",
+    "keywords": ["suicide", "despair", "hopelessness"],
+    "text": "The Gita does not endorse suicide. Instead, it teaches that life is sacred and challenges are opportunities for growth. Krishna encourages Arjuna to rise above despair and fulfill his duty, offering hope and purpose to those struggling with hopelessness."
+  },
+  {
+    "teaching_id": 33,
+    "topic": "Love & Devotion",
+    "keywords": ["love", "devotion", "relationships"],
+    "text": "Love in the Gita is expressed as selfless devotion (bhakti). It extends beyond romance to universal compassion and spiritual connection. Relationships flourish when based on selfless giving, not selfish attachment."
+  },
+  {
+    "teaching_id": 34,
+    "topic": "Relationships with Others",
+    "keywords": ["relationships", "family", "friends"],
+    "text": "The Gita advises compassion, patience, and non-attachment in relationships. By seeing others as souls, not just roles, one can maintain love while avoiding unhealthy dependency."
+  },
+  {
+    "teaching_id": 35,
+    "topic": "Does the Gita Promote War?",
+    "keywords": ["war", "violence", "battlefield"],
+    "text": "The Gita is set on a battlefield but does not glorify violence. The war symbolizes inner struggle between right and wrong. Krishna urges Arjuna to fight only because it was his dharma as a warrior, not for personal gain or cruelty. In modern life, the message is about standing up for truth, not promoting violence."
+  },
+  {
+    "teaching_id": 36,
+    "topic": "Daily Life Practice",
+    "keywords": ["daily life", "routine", "practice"],
+    "text": "The Gita is not only for saints or monks. Its teachings can be practiced daily by working honestly, eating mindfully, treating others kindly, and dedicating actions to a higher purpose."
+  },
+  {
+    "teaching_id": 37,
+    "topic": "Coping with Loss",
+    "keywords": ["loss", "grief", "mourning"],
+    "text": "When loved ones pass away, the Gita reminds us that the soul is eternal and never destroyed. Grief is natural, but spiritual knowledge brings comfort and strength to move forward."
+  },
+  {
+    "teaching_id": 38,
+    "topic": "Violence & Anger",
+    "keywords": ["anger", "violence", "control"],
+    "text": "The Gita warns that anger clouds judgment and leads to destruction. Managing anger through self-discipline and inner calm is essential for harmony in life and society."
+  },
+  {
+    "teaching_id": 39,
+    "topic": "Hope in Times of Crisis",
+    "keywords": ["crisis", "hope", "faith"],
+    "text": "Krishna assures that no sincere spiritual effort is ever wasted. Even small steps toward self-improvement bring lasting benefit, giving hope during despair and uncertainty."
+  },
+  {
+    "teaching_id": 40,
+    "topic": "Forgiveness",
+    "keywords": ["forgiveness", "resentment", "healing"],
+    "text": "The Gita encourages letting go of resentment. Forgiveness frees the heart from bitterness and allows spiritual progress. It is a strength, not a weakness."
+  },
+  {
+    "teaching_id": 41,
+    "topic": "Religion & Universality",
+    "keywords": ["religion", "hinduism", "christianity", "islam", "universality"],
+    "text": "The Gita does not confine its teachings to one religion. It speaks about the eternal soul, dharma, and devotion to God in any form. Its wisdom is universal and can be practiced by people of all faiths."
+  },
+  {
+    "teaching_id": 42,
+    "topic": "Respect for All Faiths",
+    "keywords": ["respect", "faith", "tolerance", "diversity"],
+    "text": "The Gita honors sincerity in worship, regardless of the path. Krishna teaches that whatever deity one worships with devotion, it ultimately reaches the Supreme. This fosters respect and harmony among religions."
+  },
+  {
+    "teaching_id": 43,
+    "topic": "Religion vs. Spirituality",
+    "keywords": ["religion", "spirituality", "essence"],
+    "text": "The Gita emphasizes spirituality over external ritual. True religion is about inner transformation, self-discipline, and devotion, not rigid labels or divisions."
+  },
+  {
+    "teaching_id": 44,
+    "topic": "Self & Ego",
+    "keywords": ["self", "ego", "identity"],
+    "text": "The Gita distinguishes between the higher self (Atman) and the false ego. Ego ties us to pride and attachment, while realization of the true self brings peace and liberation."
+  },
+  {
+    "teaching_id": 45,
+    "topic": "Self-Attachment",
+    "keywords": ["self-attachment", "attachment", "detachment"],
+    "text": "Attachment to the temporary body, possessions, or relationships causes suffering. The Gita teaches balanced detachment: to care and act with love, but without clinging to outcomes."
+  },
+  {
+    "teaching_id": 46,
+    "topic": "Selfless Service",
+    "keywords": ["selfless service", "seva", "karma yoga"],
+    "text": "The Gita’s karma yoga teaches selfless action—working without selfish motives. By dedicating actions to God or a higher purpose, life becomes meaningful and free from bondage."
+  },
+  {
+    "teaching_id": 47,
+    "topic": "Unity of Religions",
+    "keywords": ["unity", "religions", "oneness"],
+    "text": "The Gita teaches that all sincere paths ultimately lead to the same truth. This unity encourages dialogue and mutual respect among people of different religions."
+  },
+  {
+    "teaching_id": 48,
+    "topic": "God Beyond Form",
+    "keywords": ["god", "formless", "form"],
+    "text": "Krishna explains that the Supreme can be worshipped in both personal form and formless aspect. This teaching bridges differences across religions that view God differently."
+  },
+  {
+    "teaching_id": 49,
+    "topic": "Self-Realization",
+    "keywords": ["self-realization", "atma", "moksha"],
+    "text": "The purpose of life according to the Gita is self-realization—understanding that we are eternal souls, not just the temporary body and mind. This realization is beyond sect or creed."
+  },
+  {
+    "teaching_id": 50,
+    "topic": "Religion & Duty",
+    "keywords": ["religion", "duty", "dharma"],
+    "text": "Religion in the Gita is closely tied to dharma—living truthfully, fulfilling one’s responsibilities, and acting righteously. Real religion is about how we live, not just what we label ourselves as."
+  },
+   {
+    "teaching_id": 51,
+    "topic": "Krishna and Hinduism",
+    "keywords": ["krishna", "hinduism", "religion"],
+    "text": "Krishna is a central figure in Hinduism, revered as an incarnation of the Supreme Being. In the Gita, he speaks as God to guide Arjuna. While Krishna belongs to the Hindu tradition, his teachings are presented as eternal wisdom for all humanity."
+  },
+  {
+    "teaching_id": 52,
+    "topic": "The Gita as a Hindu Scripture",
+    "keywords": ["bhagavad gita", "hinduism", "scripture"],
+    "text": "The Bhagavad Gita is a sacred scripture within the Hindu tradition, forming part of the Mahabharata. However, its philosophical depth has made it studied globally by people of many religions and backgrounds."
+  },
+  {
+    "teaching_id": 53,
+    "topic": "Universality of the Gita",
+    "keywords": ["universal", "religion", "all faiths"],
+    "text": "Though rooted in Hindu culture, the Gita’s message of the eternal soul, selfless action, and devotion applies universally. It does not limit its wisdom to Hindus but speaks to all seekers of truth, regardless of faith."
+  },
+  {
+    "teaching_id": 54,
+    "topic": "Does the Gita Promote Hinduism?",
+    "keywords": ["promote", "hinduism", "religion"],
+    "text": "The Gita does not promote conversion to Hinduism. Instead, it teaches universal principles like duty, devotion, and the immortality of the soul. It can inspire followers of any faith to live with purpose and spirituality."
+  },
+  {
+    "teaching_id": 55,
+    "topic": "Meditation and Mind Control",
+    "keywords": ["meditation", "mind", "focus", "dhyana"],
+    "text": "The Gita describes meditation (dhyana yoga) as a path to self-realization. By sitting in silence, focusing the mind, and controlling desires, one attains inner peace and union with the divine."
+  },
+  {
+    "teaching_id": 56,
+    "topic": "Food and Lifestyle",
+    "keywords": ["food", "diet", "sattvic", "rajasic", "tamasic"],
+    "text": "The Gita explains three kinds of food: sattvic (pure, nourishing, calming), rajasic (spicy, overstimulating), and tamasic (stale, impure). A sattvic lifestyle promotes clarity, health, and balance."
+  },
+  {
+    "teaching_id": 57,
+    "topic": "Free Will vs Destiny",
+    "keywords": ["free will", "destiny", "karma"],
+    "text": "The Gita teaches that while past karma influences circumstances, we always have free will to choose our actions in the present. Destiny sets the stage, but free will decides how we play our part."
+  },
+  {
+    "teaching_id": 58,
+    "topic": "Material Success and Wealth",
+    "keywords": ["wealth", "money", "success", "materialism"],
+    "text": "The Gita does not reject wealth or success. It teaches balance—earn and enjoy honestly, without greed or attachment, and dedicate the fruits of wealth toward higher purpose and service."
+  },
+  {
+    "teaching_id": 59,
+    "topic": "Women and the Gita",
+    "keywords": ["women", "gender", "equality"],
+    "text": "The Gita emphasizes that devotion and self-realization are open to all, regardless of gender or background. Women, like men, can attain the highest spiritual realization through bhakti and dharma."
+  },
+  {
+    "teaching_id": 60,
+    "topic": "Science and Spirituality",
+    "keywords": ["science", "rationality", "spirituality"],
+    "text": "The Gita is not a science textbook, but its teachings complement science by addressing ethics, purpose, and consciousness. Science explains the material world; the Gita explains the self and the eternal soul."
+  },
+  {
+    "teaching_id": 61,
+    "topic": "Peace and Nonviolence",
+    "keywords": ["peace", "nonviolence", "ahimsa"],
+    "text": "Though set on a battlefield, the Gita does not glorify violence. Its deeper teaching is inner peace, self-control, and standing for truth without hatred. Nonviolence in thought, word, and deed is praised."
+  },
+  {
+    "teaching_id": 62,
+    "topic": "Detachment and Balance",
+    "keywords": ["detachment", "balance", "yoga"],
+    "text": "The Gita teaches detachment as balance—not running away from life, but living in the world without being enslaved by desires or outcomes."
+  },
+  {
+    "teaching_id": 63,
+    "topic": "Service to Society",
+    "keywords": ["society", "service", "seva"],
+    "text": "Selfless service (seva) is central to karma yoga. By serving others without expecting reward, one uplifts society and purifies the heart."
+  },
+  {
+    "teaching_id": 64,
+    "topic": "Inner Strength",
+    "keywords": ["strength", "courage", "resilience"],
+    "text": "Krishna urges Arjuna to rise above weakness and fight for righteousness. The Gita teaches cultivating inner strength to face challenges with courage and faith."
+  },
+  {
+    "teaching_id": 65,
+    "topic": "Happiness",
+    "keywords": ["happiness", "joy", "contentment"],
+    "text": "The Gita explains that real happiness is not found in temporary pleasures but in inner peace, self-realization, and devotion. Contentment comes from aligning life with dharma."
+  }
+
+]

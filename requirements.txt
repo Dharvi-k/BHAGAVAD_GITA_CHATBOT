@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+pandas
+numpy
+nltk
+sentence-transformers
+transformers
+torch
+bitsandbytes
+langchain
+langchain-community
+faiss-cpu
+huggingface-hub
+accelerate
