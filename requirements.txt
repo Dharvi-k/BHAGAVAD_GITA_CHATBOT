@@ -11,4 +11,8 @@ langchain
 langchain-community
 faiss-cpu
 huggingface-hub
+streamlit
 accelerate
+requests
+torch
+python-dotenv
